@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IlterOnatKorkmaz
-- 👀 I’m interested in Data Science, Coding, NLP, Signal Processing
+- 👀 I’m interested in Data Science, Coding, NLP, Signal Processing, AI
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me: ilteronatk@gmail.com
 
