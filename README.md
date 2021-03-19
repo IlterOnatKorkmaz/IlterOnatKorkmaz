@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IlterOnatKorkmaz
+- 👋 Hi, I’m @IlterOnatKorkmaz and my GitHub is under maintanance.
 - 👀 I’m interested in Data Science, Coding, NLP, Signal Processing, AI
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me: ilteronatk@gmail.com
