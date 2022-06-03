@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlterOnatKorkmaz and my GitHub is under maintanance.
 - 👀 I’m interested in Machine Learning, NLP, AI, Coding.
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning Reinforcement Learning.
 - 📫 How to reach me: ilteronatk@gmail.com
 
 <!---
