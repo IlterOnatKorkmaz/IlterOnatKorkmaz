@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IlterOnatKorkmaz and my GitHub is under maintanance.
-- 👀 I’m interested in Machine Learning, BAyesian Optimization.
+- 👀 I’m interested in Machine Learning, Bayesian Optimization.
 - 📫 How to reach me: ilteronatk@gmail.com
 
 <!---
